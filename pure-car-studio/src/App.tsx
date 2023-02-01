@@ -1,8 +1,8 @@
-export const App = () => {
-  
+import { Paragraph } from "./App.styles"
 
+export const App = () => {
   return (
-    <>TEST TEST TEST</>
+    <Paragraph>TEST TEST TEST</Paragraph>
   )
 }
 
