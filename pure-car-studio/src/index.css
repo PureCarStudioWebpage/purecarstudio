@@ -3,6 +3,7 @@ body {
   margin: 0;
   font-size: 10px;
   color: #000;
+  background: #050606;
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
